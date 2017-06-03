@@ -322,6 +322,15 @@ nav a:hover {
   color: #ffffff;
 }
 
+#work-bottom-row a {
+  text-decoration: none;
+  color: white;
+}
+
+#work-bottom-row a:visited {
+  color: white;
+}
+
 #work-bottom-row p {
   font-family: 'Work Sans', serif;
   font-size: 18px;
@@ -527,10 +536,54 @@ nav a:hover {
   margin-left: 20px;
 }
 
+/***** CODE AND FLOW PAGE HEADER *****/
+
+.additional-page {
+  background: #9b9b9b;
+}
+
+.additional-page nav ul li a {
+  color: white;
+}
+
+#code-and-flow-image {
+  margin: 50px 0 0 150px;
+}
+
+.additional-page {
+  height: 180px;
+}
 
 
+/***** CODE AND FLOW PAGE BODY *****/
 
+.code-and-flow {
+  height: 900px;
+  background: #9b9b9b;
+  margin: auto 0;
+  color: white;
+  font-family: 'Work Sans', sans-serif;
+}
 
+#code-and-flow-title {
+  color: white;
+  text-transform: uppercase;
+  margin: auto 0;
+  padding: 80px 0 0 150px;
+}
+
+.code-and-flow p {
+  font-size: 24px
+  width: 200px;
+  text-align: center;
+
+}
+
+.code-and-flow h3 {
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 24px;
+}
 
 
 
