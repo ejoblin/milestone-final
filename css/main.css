@@ -561,29 +561,32 @@ nav a:hover {
   font-family: 'Work Sans', sans-serif;
 }
 
+#code-and-flow-image {
+  margin: 20px 0 0 240px;
+}
+
 #code-and-flow-title {
   color: white;
+  font-size: 40px;
+  text-align: center;
+  padding-top: 10px;
+  margin: 20px 0 0 0;
   text-transform: uppercase;
-  margin: auto 0;
-  padding: 80px 0 0 150px;
 }
 
 .code-and-flow p {
-  font-size: 24px
-  width: 200px;
+  font-size: 18px;
   text-align: center;
-
-}
-
-
-#code-and-flow-image {
-  margin: 50px 0 0 150px;
+  line-height: 30px;
+  width: 400px;
+  margin: 0 0 0 380px;
 }
 
 .code-and-flow h3 {
   text-align: center;
   text-transform: uppercase;
-  font-size: 24px;
+  font-size: 22px;
+  color: yellow;
 }
 
 /***** ARTWORK PAGE BODY *****/
@@ -597,26 +600,30 @@ nav a:hover {
 }
 
 #artwork-grid-image {
-  margin: 50px 0 0 150px;
+  margin: 20px 0 0 150px;
 }
 
 #artwork-grid-title {
   color: white;
-  margin: auto 0;
-  padding: 80px 0 0 150px;
+  font-size: 40px;
+  text-align: center;
+  padding-top: 10px;
+  margin-bottom: 0;
 }
 
 .artwork-grid p {
-  font-size: 24px
-  width: 200px;
+  font-size: 18px;
   text-align: center;
-
+  line-height: 30px;
+  width: 400px;
+  margin: 10px 0 0 380px;
 }
 
 .artwork-grid h3 {
   text-align: center;
   text-transform: uppercase;
-  font-size: 24px;
+  font-size: 22px;
+  color: yellow;
 }
 
 
