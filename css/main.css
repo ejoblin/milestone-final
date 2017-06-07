@@ -7,7 +7,7 @@ body {
 
 .full-width {
   width: 1200px;
-  margin: auto 0;
+  margin: auto;
   padding-left: 20px;
 }
 
@@ -562,7 +562,7 @@ nav a:hover {
 }
 
 #code-and-flow-image {
-  margin: 20px 0 0 240px;
+  margin: 20px 0 0 250px;
 }
 
 #code-and-flow-title {
